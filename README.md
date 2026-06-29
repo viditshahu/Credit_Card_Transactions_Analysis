@@ -1,1 +1,2 @@
+# Credit_Card_Transactions_Analysis
 Analyzed credit card transaction data to uncover customer spending patterns, fraud trends, and card performance using Python, Pandas, NumPy, and Google Colab. Focused on data cleaning, dataset merging, customer segmentation, credit limit analysis, and business insights through exploratory data analysis (EDA).
